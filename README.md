@@ -1,9 +1,9 @@
-About:
+**About**:
 
 A web application wherein the respective candidate can view his/her current semester and previous semester marks.This minor application was developed to refine 
 my Advance Java concepts such as JSP, Servlets, JDBC etc.
 
-Installation:
+**Installation**:
 
 Server Installation:
 
@@ -12,7 +12,7 @@ Apache tomcat server(version 7 and above) and carefully read the tomcat readme f
 To check if the server is up or not : apacahe-tomcat folder -> bin -> startup (Windows batch file).Please find the image attached below.
 <img width="600" alt="tomcat" src="https://user-images.githubusercontent.com/95494766/179543806-4f357b82-9ded-4db8-a705-b68969478974.png">
 
-Database Installation:
+**Database Installation**:
 
 The database used in this project is MySQL version 8, inorder to go through the login page you need to have some entries in your database for verification.
 
@@ -26,7 +26,7 @@ Where to store the files?
 Inside apache tomcat you will find a folder by the name webapps. Inside webapps folder create a directory/folder by the name College.
 Now put all the files and folders present in this repository inside the folder created by the name College.
 
-How to use?
+**How to use?**
 
 Under  College -> WEB-INF -> web.xml , open this xml file in a editor and save it so that all the servlets are loaded.
 Go to your browser and type the url: "https://localhost:8080/College".
@@ -35,11 +35,11 @@ How to edit the code?
 
 Inside your IDE open this folder College -> WEB-INF -> classes, all the .java files are visible here.
 
-Features:
+**Features:**
 
 The front end is developed using JSP, HTML and  CSS and also candidate can view the current smester's timetable.
 
-Images:
+**Images:**
 
 <img width="960" alt="page1" src="https://user-images.githubusercontent.com/95494766/179547661-6d7884f4-76ac-4fc0-b516-9f6ec19864f9.png">
 
@@ -48,13 +48,13 @@ Images:
 <img width="941" alt="page3" src="https://user-images.githubusercontent.com/95494766/179547738-34f1b3c3-ac92-490b-a4b7-541b92cdaa3e.png">
 
 
-API'S: No API's are used.
+**API'S:** No API's are used.
 
-Frameworks: No frameworks used.
+**Frameworks:** No frameworks used.
 
-Test's: Check the flow inside the web application.
+**Test's:** Check the flow inside the web application.
 
-Comments: Enjoy using this website, also do report if any bugs are found or any problems in the server installation.
+**Comments:** Enjoy using this website, also do report if any bugs are found or any problems in the server installation.
 
 
 
